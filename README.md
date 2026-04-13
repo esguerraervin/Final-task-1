@@ -48,7 +48,7 @@ This project focuses on transforming a raw call center dataset into a structured
 ![Stored Procedure](Stored_procedure.png)
 
 ### 📊 Output  
-![Output](Outputs.pdf)
+📄 [View Output File](Outputs.pdf)
 
 ### 🧾 SQL Query  
-![SQL Query](cleaned_data_query.sql)
+💻 [View SQL File](cleaned_data_query.sql)
