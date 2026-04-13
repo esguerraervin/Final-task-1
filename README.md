@@ -44,11 +44,11 @@ This project focuses on transforming a raw call center dataset into a structured
 
 ## 📁 05. Output Files  
 
-### 🧾 Raw Imported Data  
-![Raw Data](YOUR_IMAGE_LINK_HERE)
+### ⚙️ Stored Procedure  
+![Stored Procedure](Stored_procedure.png)
 
-### 🧹 Cleaned Data  
-![Cleaned Data](YOUR_IMAGE_LINK_HERE)
+### 📊 Output  
+![Output](Outputs.pdf)
 
-### 📊 SQL Query Results  
-![Query Results](YOUR_IMAGE_LINK_HERE)
+### 🧾 SQL Query  
+![SQL Query](cleaned_data_query.sql)
